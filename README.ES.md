@@ -10,5 +10,7 @@ si tienes preguntas o dudas hagalas por mensaje privado, ya que en los comentari
 
 Es importante que usted sepa por lo menos algo basico de php para crear el modulo o por lo menos que usted sepa que es lo que quiere hacer
 
+Hay una página en la wiki de Namleess que explica más sobre las clases y funciones de Nameless, puedes ir a verla en el siguiente enlace
+https://github.com/NamelessMC/Nameless/wiki/Nameless-2.0-Module-Developer-Documentation
 
-Esperare su Reviews positivas :D y Gracias por comprar!
+Esperare su Reviews positivas :D
