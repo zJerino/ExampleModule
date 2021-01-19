@@ -11,7 +11,8 @@ If you have questions or doubts, ask them by private message, since I cannot ans
 It is important that you know at least some basic php to create the module or at least that you know what you want to do
 
 
-I will wait for your positive reviews :D and Thank you for shopping!
+I will wait for your positive reviews :D
+
 
 There is a page in the Namleess wiki that explains more about the classes and functions of Nameless, you can go to see it in the following link
 https://github.com/NamelessMC/Nameless/wiki/Nameless-2.0-Module-Developer-Documentation
